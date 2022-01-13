@@ -1013,6 +1013,7 @@ namespace Microsoft.Build.Tasks.Xaml
                     }
                 }
 
+                // skipcq: CS-R1014
                 if (property.ReverseSwitchName != "")
                 {
                     rel = _relationsParser.SwitchRelationsList[property.ReverseSwitchName];
