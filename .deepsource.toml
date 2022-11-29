@@ -5,9 +5,5 @@ name = "csharp"
 enabled = true
 
 [[analyzers]]
-name = "ruby"
-enabled = true
-
-[[analyzers]]
-name = "secrets"
+name = "shell"
 enabled = true
