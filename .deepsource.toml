@@ -5,7 +5,7 @@ name = "csharp"
 enabled = true
 
   [analyzers.meta]
-  sdk_version = "7.x"
+  lang_version = "8"
 
 
 [[analyzers]]
