@@ -7,3 +7,6 @@ enabled = true
 [[analyzers]]
 name = "shell"
 enabled = true
+
+[analyzers.meta]
+  lang_version = "8"
