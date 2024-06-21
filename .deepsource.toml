@@ -11,7 +11,6 @@ enabled = true
   [analyzers.meta]
   lang_version = "8"
 
-
 [[analyzers]]
 name = "shell"
 enabled = true
